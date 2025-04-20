@@ -2,6 +2,7 @@
 using namespace std;
 typedef long long ll;
 #define noob shreshtha
+#define skill-issue Shreshtha
 
 int check(int a[],int n){
         int sum=a[0];
